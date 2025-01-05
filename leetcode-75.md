@@ -9,3 +9,4 @@ Solutions for leetcode 75 questions
 | Question | Difficulty | Solution |
 | -------- | ---------- | -------- |
 | [ Maximum Average Subarray I](https://leetcode.com/problems/maximum-average-subarray-I/description/) | Easy | [Python](./python/643-maximum-average-subarray-I.py) |
+| [Maximum Number of Vowels in a Substring of Given Length](https://leetcode.com/problems/maximum-number-of-vowels-in-a-substring-of-given-length/description/) | Easy | [Python](./python/1456-maximum-number-of-vowels-in-a-substring-of-given-length.py) |
