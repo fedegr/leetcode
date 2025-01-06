@@ -8,3 +8,4 @@ Solutions for leetcode daily questions
 | 2025-01-03 | [Number of ways to split array](https://leetcode.com/problems/number-of-ways-to-split-array/?envType=daily-question) | Medium | [Python](./python/2270-number-of-ways-to-split-array.py) | <tag class="medium"/> |
 | 2025-01-04 | [ Unique Length-3 Palindromic Subsequences](https://leetcode.com/problems/unique-length-3-palindromic-subsequences/description/) | Medium | [Python](./python/1930-unique-length-3-palindromic-subsequences.py) |
 | 2025-01-05|[ Shifting Letters II](https://leetcode.com/problems/shifting-letters-ii/description/) | Medium | [Python](./python/2381-shifting-letters-ii.py) |
+| 2025-01-06 | [ Minimum Number of Operations to Move All Balls to Each Box](https://leetcode.com/problems/minimum-number-of-operations-to-move-all-balls-to-each-box/description/) | Medium | [Python](./python/1769-minimum-number-of-operations-to-move-all-balls-to-each-box.py) |
