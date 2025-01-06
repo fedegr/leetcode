@@ -1,3 +1,5 @@
+from typing import List
+
 class Solution:
     def minOperations(self, boxes: str) -> List[int]:
         index_sum = [0] * len(boxes)
