@@ -43,5 +43,5 @@ if __name__ == '__main__':
             difficulty,
             md_link('Python', './' + str(file_path.relative_to(root))),
         ]
-        print(f"| {'|'.join(row)} |", file=readme)
+        print(f"| {' | '.join(row)} |", file=readme)
 
