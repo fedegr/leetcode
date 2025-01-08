@@ -45,3 +45,5 @@ if __name__ == '__main__':
         ]
         print(f"| {' | '.join(row)} |", file=readme)
 
+    print("Suggested commit message:\n", f"leetcode daily - {day} - {name}")
+
