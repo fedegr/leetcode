@@ -27,6 +27,7 @@ if __name__ == '__main__':
     difficulty = read_input('difficulty', "Medium")
     
     number, name = title.split('.')
+    name.strip()
     name_formatted = '-'.join(name.lower().split())
     fullname = number + '-' + name_formatted
     
