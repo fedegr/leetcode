@@ -14,3 +14,5 @@ Solutions for leetcode daily questions
 | 2025-01-09 | [ Counting Words With a Given Prefix](https://leetcode.com/problems/counting-words-with-a-given-prefix/description/) | Easy | [Python](./python/2185-counting-words-with-a-given-prefix.py) |
 | 2025-01-10 | [ Word Subsets](https://leetcode.com/problems/word-subsets/description/) | Medium | [Python](./python/916-word-subsets.py) |
 | 2025-01-11 | [ Construct K Palindrome Strings](https://leetcode.com/problems/construct-k-palindrome-strings/description/) | Medium | [Python](./python/1400-construct-k-palindrome-strings.py) |
+| 2025-01-12 | [ Check if a Parentheses String Can Be Valid](https://leetcode.com/problems/check-if-a-parentheses-string-can-be-valid/description/) | Medium | [Python](./python/2116-check-if-a-parentheses-string-can-be-valid.py) |
+| 2025-01-12 | [Check if a Parentheses String Can Be Valid](https://leetcode.com/problems/check-if-a-parentheses-string-can-be-valid/description/) | Medium | [Python](./python/2116-check-if-a-parentheses-string-can-be-valid.py) |
