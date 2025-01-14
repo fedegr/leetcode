@@ -17,3 +17,4 @@ Solutions for leetcode daily questions
 | 2025-01-12 | [ Check if a Parentheses String Can Be Valid](https://leetcode.com/problems/check-if-a-parentheses-string-can-be-valid/description/) | Medium | [Python](./python/2116-check-if-a-parentheses-string-can-be-valid.py) |
 | 2025-01-12 | [Check if a Parentheses String Can Be Valid](https://leetcode.com/problems/check-if-a-parentheses-string-can-be-valid/description/) | Medium | [Python](./python/2116-check-if-a-parentheses-string-can-be-valid.py) |
 | 2025-01-13 | [Minimum Length of String After Operations](https://leetcode.com/problems/minimum-length-of-string-after-operations/description/) | Medium | [Python](./python/3223-minimum-length-of-string-after-operations.py) |
+| 2025-01-14 | [Find the Prefix Common Array of Two Arrays](https://leetcode.com/problems/find-the-prefix-common-array-of-two-arrays/description/) | Medium | [Python](./python/2657-find-the-prefix-common-array-of-two-arrays.py) |
