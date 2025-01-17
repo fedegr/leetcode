@@ -20,3 +20,4 @@ Solutions for leetcode daily questions
 | 2025-01-14 | [Find the Prefix Common Array of Two Arrays](https://leetcode.com/problems/find-the-prefix-common-array-of-two-arrays/description/) | Medium | [Python](./python/2657-find-the-prefix-common-array-of-two-arrays.py) |
 | 2025-01-15 | [Minimize XOR](https://leetcode.com/problems/minimize-xor/description/) | Medium | [Python](./python/2429-minimize-xor.py) |
 | 2025-01-16 | [Bitwise XOR of All Pairings](https://leetcode.com/problems/bitwise-xor-of-all-pairings/description/) | Medium | [Python](./python/2425-bitwise-xor-of-all-pairings.py) |
+| 2025-01-17 | [Neighboring Bitwise XOR](https://leetcode.com/problems/neighboring-bitwise-xor/description/) | Medium | [Python](./python/2683-neighboring-bitwise-xor.py) |
