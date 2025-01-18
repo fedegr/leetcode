@@ -21,3 +21,4 @@ Solutions for leetcode daily questions
 | 2025-01-15 | [Minimize XOR](https://leetcode.com/problems/minimize-xor/description/) | Medium | [Python](./python/2429-minimize-xor.py) |
 | 2025-01-16 | [Bitwise XOR of All Pairings](https://leetcode.com/problems/bitwise-xor-of-all-pairings/description/) | Medium | [Python](./python/2425-bitwise-xor-of-all-pairings.py) |
 | 2025-01-17 | [Neighboring Bitwise XOR](https://leetcode.com/problems/neighboring-bitwise-xor/description/) | Medium | [Python](./python/2683-neighboring-bitwise-xor.py) |
+| 2025-01-18 | [Minimum Cost to Make at Least One Valid Path in a Grid](https://leetcode.com/problems/minimum-cost-to-make-at-least-one-valid-path-in-a-grid/description/) | Hard | [Python](./python/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid.py) |
