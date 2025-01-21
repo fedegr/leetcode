@@ -24,3 +24,4 @@ Solutions for leetcode daily questions
 | 2025-01-18 | [Minimum Cost to Make at Least One Valid Path in a Grid](https://leetcode.com/problems/minimum-cost-to-make-at-least-one-valid-path-in-a-grid/description/) | Hard | [Python](./python/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid.py) |
 | 2025-01-19 | [Trapping Rain Water II](https://leetcode.com/problems/trapping-rain-water-ii/description/) | Hard | [Python](./python/407-trapping-rain-water-ii.py) |
 | 2025-01-20 | [First Completely Painted Row or Column](https://leetcode.com/problems/first-completely-painted-row-or-column/description/) | Medium | [Python](./python/2661-first-completely-painted-row-or-column.py) |
+| 2025-01-21 | [Grid Game](https://leetcode.com/problems/grid-game/description/) | Medium | [Python](./python/2017-grid-game.py) |
