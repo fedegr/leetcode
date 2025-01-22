@@ -25,3 +25,4 @@ Solutions for leetcode daily questions
 | 2025-01-19 | [Trapping Rain Water II](https://leetcode.com/problems/trapping-rain-water-ii/description/) | Hard | [Python](./python/407-trapping-rain-water-ii.py) |
 | 2025-01-20 | [First Completely Painted Row or Column](https://leetcode.com/problems/first-completely-painted-row-or-column/description/) | Medium | [Python](./python/2661-first-completely-painted-row-or-column.py) |
 | 2025-01-21 | [Grid Game](https://leetcode.com/problems/grid-game/description/) | Medium | [Python](./python/2017-grid-game.py) |
+| 2025-01-22 | [Map of Highest Peak](https://leetcode.com/problems/map-of-highest-peak/description/) | Medium | [Python](./python/1765-map-of-highest-peak.py) |
