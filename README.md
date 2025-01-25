@@ -27,3 +27,4 @@ Solutions for leetcode daily questions
 | 2025-01-21 | [Grid Game](https://leetcode.com/problems/grid-game/description/) | Medium | [Python](./python/2017-grid-game.py) |
 | 2025-01-22 | [Map of Highest Peak](https://leetcode.com/problems/map-of-highest-peak/description/) | Medium | [Python](./python/1765-map-of-highest-peak.py) |
 | 2025-01-23 | [Count Servers that Communicate](https://leetcode.com/problems/count-servers-that-communicate/description/) | Medium | [Python](./python/1267-count-servers-that-communicate.py) |
+| 2025-01-24 | [Find Eventual Safe States](https://leetcode.com/problems/find-eventual-safe-states/description/) | Medium | [Python](./python/802-find-eventual-safe-states.py) |
