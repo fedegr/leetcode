@@ -17,3 +17,4 @@ Solutions for leetcode 75 questions
 | Question | Difficulty | Solution |
 | -------- | ---------- | -------- |
 | [ Find the Highest Altitude](https://leetcode.com/problems/find-the-highest-altitude/description/) | Easy | [Python](./python/1732-find-the-highest-altitude.py) |
+| [ Find Pivot Index](https://leetcode.com/problems/find-pivot-index/description/) | Easy | [Python](./python/724-find-pivot-index.py) |
