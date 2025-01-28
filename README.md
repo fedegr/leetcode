@@ -30,4 +30,4 @@ Solutions for leetcode daily questions
 | 2025-01-24 | [Find Eventual Safe States](https://leetcode.com/problems/find-eventual-safe-states/description/) | Medium | [Python](./python/802-find-eventual-safe-states.py) |
 | 2025-01-25 | [Make Lexicographically Smallest Array by Swapping Elements](https://leetcode.com/problems/make-lexicographically-smallest-array-by-swapping-elements/description/) | Medium | [Python](./python/2948-make-lexicographically-smallest-array-by-swapping-elements.py) |
 | 2025-01-27 | [Course Schedule IV](https://leetcode.com/problems/course-schedule-iv/description/) | Medium | [Python](./python/1462-course-schedule-iv.py) |
-| 2025-01-28 | [Make Lexicographically Smallest Array by Swapping Elements](https://leetcode.com/problems/make-lexicographically-smallest-array-by-swapping-elements/description/) | Medium | [Python](./python/2948-make-lexicographically-smallest-array-by-swapping-elements.py) |
+| 2025-01-28 | [Maximum Number of Fish in a Grid](https://leetcode.com/problems/maximum-number-of-fish-in-a-grid/description/) | Medium | [Python](./python/2658-maximum-number-of-fish-in-a-grid.py) |
