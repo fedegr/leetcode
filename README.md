@@ -32,3 +32,4 @@ Solutions for leetcode daily questions
 | 2025-01-27 | [Course Schedule IV](https://leetcode.com/problems/course-schedule-iv/description/) | Medium | [Python](./python/1462-course-schedule-iv.py) |
 | 2025-01-28 | [Maximum Number of Fish in a Grid](https://leetcode.com/problems/maximum-number-of-fish-in-a-grid/description/) | Medium | [Python](./python/2658-maximum-number-of-fish-in-a-grid.py) |
 | 2025-01-29 | [Redundant Connection](https://leetcode.com/problems/redundant-connection/description/) | Medium | [Python](./python/684-redundant-connection.py) |
+| 2025-01-31 | [Making A Large Island](https://leetcode.com/problems/making-a-large-island/description/) | Hard | [Python](./python/827-making-a-large-island.py) |
