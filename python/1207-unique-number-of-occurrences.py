@@ -1,4 +1,3 @@
-# 1207-unique-number-of-occurrences
 from typing import List
 
 class Solution:
