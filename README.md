@@ -34,3 +34,4 @@ Solutions for leetcode daily questions
 | 2025-01-29 | [Redundant Connection](https://leetcode.com/problems/redundant-connection/description/) | Medium | [Python](./python/684-redundant-connection.py) |
 | 2025-01-31 | [Making A Large Island](https://leetcode.com/problems/making-a-large-island/description/) | Hard | [Python](./python/827-making-a-large-island.py) |
 | 2025-02-01 | [Special Array I](https://leetcode.com/problems/special-array-i/description/) | Easy | [Python](./python/3151-special-array-i.py) |
+| 2025-02-02 | [Check if Array Is Sorted and Rotated](https://leetcode.com/problems/check-if-array-is-sorted-and-rotated/description/) | Easy | [Python](./python/1752-check-if-array-is-sorted-and-rotated.py) |
