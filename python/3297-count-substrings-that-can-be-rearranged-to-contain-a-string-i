@@ -1,0 +1,35 @@
+from collections import Counter
+
+
+def check_prefix(prefix, expected):
+    return all(prefix.get(c, 0) >= expected[c] for c in expected.keys())
+
+
+class Solution:
+    def validSubstringCount(self, word1: str, word2: str) -> int:
+        word2c = Counter(word2)
+
+        i = 0
+        j = 0
+        prefix = {}
+        prefix_completed = False
+        ans = 0
+        while i <= j and (prefix_completed or j < len(word1)):
+            if not prefix_completed:
+                c = word1[j]
+                if c in word2c:
+                    prefix[c] = prefix.get(c, 0) + 1
+                    if prefix[c] == word2c[c]:
+                        prefix_completed = check_prefix(prefix, word2c)
+                j += 1
+            else:
+                rest = word1[j:]
+                ans += 1 + len(word1) - j
+
+                c = word1[i]
+                if c in prefix:
+                    prefix[c] -= 1
+                    prefix_completed = prefix[c] >= word2c[c]
+                i += 1
+
+        return ans
