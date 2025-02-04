@@ -36,3 +36,4 @@ Solutions for leetcode daily questions
 | 2025-02-01 | [Special Array I](https://leetcode.com/problems/special-array-i/description/) | Easy | [Python](./python/3151-special-array-i.py) |
 | 2025-02-02 | [Check if Array Is Sorted and Rotated](https://leetcode.com/problems/check-if-array-is-sorted-and-rotated/description/) | Easy | [Python](./python/1752-check-if-array-is-sorted-and-rotated.py) |
 | 2025-02-03 | [Longest Strictly Increasing or Strictly Decreasing Subarray](https://leetcode.com/problems/longest-strictly-increasing-or-strictly-decreasing-subarray/description/) | Easy | [Python](./python/3105-longest-strictly-increasing-or-strictly-decreasing-subarray.py) |
+| 2025-02-04 | [Maximum Ascending Subarray Sum](https://leetcode.com/problems/maximum-ascending-subarray-sum/description/) | Easy | [Python](./python/1800-maximum-ascending-subarray-sum.py) |
