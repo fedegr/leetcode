@@ -38,3 +38,4 @@ Solutions for leetcode daily questions
 | 2025-02-03 | [Longest Strictly Increasing or Strictly Decreasing Subarray](https://leetcode.com/problems/longest-strictly-increasing-or-strictly-decreasing-subarray/description/) | Easy | [Python](./python/3105-longest-strictly-increasing-or-strictly-decreasing-subarray.py) |
 | 2025-02-04 | [Maximum Ascending Subarray Sum](https://leetcode.com/problems/maximum-ascending-subarray-sum/description/) | Easy | [Python](./python/1800-maximum-ascending-subarray-sum.py) |
 | 2025-02-05 | [Check if One String Swap Can Make Strings Equal](https://leetcode.com/problems/check-if-one-string-swap-can-make-strings-equal/description/) | Easy | [Python](./python/1790-check-if-one-string-swap-can-make-strings-equal.py) |
+| 2025-02-06 | [Tuple with Same Product](https://leetcode.com/problems/tuple-with-same-product/description/) | Medium | [Python](./python/1726-tuple-with-same-product.py) |
