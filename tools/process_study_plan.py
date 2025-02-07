@@ -60,7 +60,7 @@ if __name__ == '__main__':
             lines.append('| Question | Difficulty | Solution |')
             lines.append('| -------- | ---------- | -------- |')
             for question in group['questions']:
-                file_path = create_file(question['id'], question['title'])
+                file_path = create_file(question['questionFrontendId'], question['title'])
                 row = [
                     md_link(question['title'], f"https://leetcode.com/problems/{question['titleSlug']}/description/"),
                     question['difficulty'].capitalize(),
