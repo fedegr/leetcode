@@ -10,22 +10,13 @@ class Solution:
         if head is None or head.next is None:
             return None
         
-        node = head
-        size = 1
-        while node.next is not None:
-            node = node.next
-            size += 1
-
-        node = head
+        slow = fast = head
         prev = None
-        steps = size // 2
-        while steps > 0:
-            prev = node
-            node = node.next
-            steps -= 1
-        
-        if prev is None:
-            return head.next
 
-        prev.next = prev.next.next
+        while fast is not None and fast.next is not None:
+            prev = slow
+            slow = slow.next
+            fast = fast.next.next
+        
+        prev.next = slow.next
         return head
