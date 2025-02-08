@@ -40,3 +40,4 @@ Solutions for leetcode daily questions
 | 2025-02-05 | [Check if One String Swap Can Make Strings Equal](https://leetcode.com/problems/check-if-one-string-swap-can-make-strings-equal/description/) | Easy | [Python](./python/1790-check-if-one-string-swap-can-make-strings-equal.py) |
 | 2025-02-06 | [Tuple with Same Product](https://leetcode.com/problems/tuple-with-same-product/description/) | Medium | [Python](./python/1726-tuple-with-same-product.py) |
 | 2025-02-07 | [Find the Number of Distinct Colors Among the Balls](https://leetcode.com/problems/find-the-number-of-distinct-colors-among-the-balls/description/) | Medium | [Python](./python/3160-find-the-number-of-distinct-colors-among-the-balls.py) |
+| 2025-02-08 | [Design a Number Container System](https://leetcode.com/problems/design-a-number-container-system/description/) | Medium | [Python](./python/2349-design-a-number-container-system.py) |
