@@ -42,3 +42,4 @@ Solutions for leetcode daily questions
 | 2025-02-07 | [Find the Number of Distinct Colors Among the Balls](https://leetcode.com/problems/find-the-number-of-distinct-colors-among-the-balls/description/) | Medium | [Python](./python/3160-find-the-number-of-distinct-colors-among-the-balls.py) |
 | 2025-02-08 | [Design a Number Container System](https://leetcode.com/problems/design-a-number-container-system/description/) | Medium | [Python](./python/2349-design-a-number-container-system.py) |
 | 2025-02-09 | [Count Number of Bad Pairs](https://leetcode.com/problems/count-number-of-bad-pairs/description/) | Medium | [Python](./python/2364-count-number-of-bad-pairs.py) |
+| 2025-02-10 | [Clear Digits](https://leetcode.com/problems/clear-digits/description/) | Easy | [Python](./python/3174-clear-digits.py) |
