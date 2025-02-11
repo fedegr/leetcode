@@ -43,3 +43,4 @@ Solutions for leetcode daily questions
 | 2025-02-08 | [Design a Number Container System](https://leetcode.com/problems/design-a-number-container-system/description/) | Medium | [Python](./python/2349-design-a-number-container-system.py) |
 | 2025-02-09 | [Count Number of Bad Pairs](https://leetcode.com/problems/count-number-of-bad-pairs/description/) | Medium | [Python](./python/2364-count-number-of-bad-pairs.py) |
 | 2025-02-10 | [Clear Digits](https://leetcode.com/problems/clear-digits/description/) | Easy | [Python](./python/3174-clear-digits.py) |
+| 2025-02-11 | [Remove All Occurrences of a Substring](https://leetcode.com/problems/remove-all-occurrences-of-a-substring/description/) | Medium | [Python](./python/1910-remove-all-occurrences-of-a-substring.py) |
