@@ -9,6 +9,6 @@ class Solution:
         while len(nums) >= 2 and nums[0] < k:
             x = heapq.heappop(nums)
             y = nums[0]
-            heapq.heappushpop(nums, min(x,y) * 2 + max(x,y))
+            heapq.heappushpop(nums, x * 2 + y)
             ops += 1
         return ops
