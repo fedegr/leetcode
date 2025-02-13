@@ -10,34 +10,16 @@ from collections import deque
 
 class Solution:
     def lowestCommonAncestor(self, root: 'TreeNode', p: 'TreeNode', q: 'TreeNode') -> 'TreeNode':
-        paths = {p.val: None, q.val: None}
-        found = 0
-        stack = deque()
-        stack.append((root,tuple()))
-        while stack:
-            current, path = stack.pop()
-            if current is None:
-                continue
-            
-            path = (*path, current)
-            if current.val in paths:
-                paths[current.val] = path
-                found += 1
-            if found == 2:
-                break
-            
-            for child in (current.left, current.right):
-                stack.append((child, path))
-        
-        if found != 2:
+        if root == None:
             return None
 
-        path_p = paths[p.val]
-        path_q = paths[q.val]
-        i = 0
-        max_i = min(len(path_p), len(path_q))
-        while i < max_i and path_p[i] == path_q[i]:
-            i += 1
-        
-        return path_p[i - 1]
-            
+        if root == p or root == q:
+            return root
+
+        left = self.lowestCommonAncestor(root.left, p, q)
+        right = self.lowestCommonAncestor(root.right, p, q)
+
+        if left and right:
+            return root
+
+        return left if left else right
