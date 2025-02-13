@@ -45,3 +45,4 @@ Solutions for leetcode daily questions
 | 2025-02-10 | [Clear Digits](https://leetcode.com/problems/clear-digits/description/) | Easy | [Python](./python/3174-clear-digits.py) |
 | 2025-02-11 | [Remove All Occurrences of a Substring](https://leetcode.com/problems/remove-all-occurrences-of-a-substring/description/) | Medium | [Python](./python/1910-remove-all-occurrences-of-a-substring.py) |
 | 2025-02-12 | [Max Sum of a Pair With Equal Sum of Digits](https://leetcode.com/problems/max-sum-of-a-pair-with-equal-sum-of-digits/description/) | Medium | [Python](./python/2342-max-sum-of-a-pair-with-equal-sum-of-digits.py) |
+| 2025-02-13 | [Minimum Operations to Exceed Threshold Value II](https://leetcode.com/problems/minimum-operations-to-exceed-threshold-value-ii/description/) | Medium | [Python](./python/3066-minimum-operations-to-exceed-threshold-value-ii.py) |
