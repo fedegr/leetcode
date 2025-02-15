@@ -1,4 +1,5 @@
 from itertools import combinations
+from typing import Tuple
 
 
 class Solution:
