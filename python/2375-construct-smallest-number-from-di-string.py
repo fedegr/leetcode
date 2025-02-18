@@ -1,21 +1,25 @@
 from typing import Tuple
 
 
-def smallest(prev: int, pattern: str, available: Tuple[int]):
-    if len(pattern) == 0:
+def smallest(prev: int, pattern: str, pattern_position: int, available: Tuple[int]):
+    if len(pattern) == pattern_position:
         return ''
     
     best = None
-    for n in available:
-        operation = pattern[0]
+    for n, free in enumerate(available):
+        if not free:
+            continue
+        operation = pattern[pattern_position]
         if (operation == 'I' and prev > n) or (operation == 'D' and prev < n):
             continue
         
-        val = smallest(n, pattern[1:], tuple(a for a in available if a != n))
+        available[n] = False
+        val = smallest(n, pattern, pattern_position + 1, available)
+        available[n] = True
         if val is None:
             continue
         val = str(n) + val
-        # print(pattern, prev, val)
+        print(pattern, prev, val)
         if best is None or val < best:
             best = val
         break
@@ -25,5 +29,6 @@ def smallest(prev: int, pattern: str, available: Tuple[int]):
 
 class Solution:
     def smallestNumber(self, pattern: str) -> str:
-        available = tuple(n for n in range(1, 10))
-        return smallest(0, 'I' + pattern, available)
+        available = [True for _ in range(0, 10)]
+        available[0] = False
+        return smallest(0, 'I' + pattern, 0, available)
