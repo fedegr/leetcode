@@ -54,3 +54,4 @@ Solutions for leetcode daily questions
 | 2025-02-19 | [The k-th Lexicographical String of All Happy Strings of Length n](https://leetcode.com/problems/the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/description/) | Medium | [Python](./python/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n.py) |
 | 2025-02-20 | [Find Unique Binary String](https://leetcode.com/problems/find-unique-binary-string/description/) | Medium | [Python](./python/1980-find-unique-binary-string.py) |
 | 2025-02-21 | [Find Elements in a Contaminated Binary Tree](https://leetcode.com/problems/find-elements-in-a-contaminated-binary-tree/description/) | Medium | [Python](./python/1261-find-elements-in-a-contaminated-binary-tree.py) |
+| 2025-02-22 | [Recover a Tree From Preorder Traversal](https://leetcode.com/problems/recover-a-tree-from-preorder-traversal/description/) | Medium | [Python](./python/1028-recover-a-tree-from-preorder-traversal.py) |
