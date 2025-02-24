@@ -56,3 +56,4 @@ Solutions for leetcode daily questions
 | 2025-02-21 | [Find Elements in a Contaminated Binary Tree](https://leetcode.com/problems/find-elements-in-a-contaminated-binary-tree/description/) | Medium | [Python](./python/1261-find-elements-in-a-contaminated-binary-tree.py) |
 | 2025-02-22 | [Recover a Tree From Preorder Traversal](https://leetcode.com/problems/recover-a-tree-from-preorder-traversal/description/) | Medium | [Python](./python/1028-recover-a-tree-from-preorder-traversal.py) |
 | 2025-02-23 | [Construct Binary Tree from Preorder and Postorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-postorder-traversal/description/) | Medium | [Python](./python/889-construct-binary-tree-from-preorder-and-postorder-traversal.py) |
+| 2025-02-24 | [Most Profitable Path in a Tree](https://leetcode.com/problems/most-profitable-path-in-a-tree/description/) | Medium | [Python](./python/2467-most-profitable-path-in-a-tree.py) |
