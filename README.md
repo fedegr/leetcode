@@ -59,3 +59,4 @@ Solutions for leetcode daily questions
 | 2025-02-24 | [Most Profitable Path in a Tree](https://leetcode.com/problems/most-profitable-path-in-a-tree/description/) | Medium | [Python](./python/2467-most-profitable-path-in-a-tree.py) |
 | 2025-02-25 | [Number of Sub-arrays With Odd Sum](https://leetcode.com/problems/number-of-sub-arrays-with-odd-sum/description/) | Medium | [Python](./python/1524-number-of-sub-arrays-with-odd-sum.py) |
 | 2025-02-26 | [Maximum Absolute Sum of Any Subarray](https://leetcode.com/problems/maximum-absolute-sum-of-any-subarray/description/) | Medium | [Python](./python/1749-maximum-absolute-sum-of-any-subarray.py) |
+| 2025-02-27 | [Length of Longest Fibonacci Subsequence](https://leetcode.com/problems/length-of-longest-fibonacci-subsequence/description/) | Medium | [Python](./python/873-length-of-longest-fibonacci-subsequence.py) |
