@@ -60,3 +60,4 @@ Solutions for leetcode daily questions
 | 2025-02-25 | [Number of Sub-arrays With Odd Sum](https://leetcode.com/problems/number-of-sub-arrays-with-odd-sum/description/) | Medium | [Python](./python/1524-number-of-sub-arrays-with-odd-sum.py) |
 | 2025-02-26 | [Maximum Absolute Sum of Any Subarray](https://leetcode.com/problems/maximum-absolute-sum-of-any-subarray/description/) | Medium | [Python](./python/1749-maximum-absolute-sum-of-any-subarray.py) |
 | 2025-02-27 | [Length of Longest Fibonacci Subsequence](https://leetcode.com/problems/length-of-longest-fibonacci-subsequence/description/) | Medium | [Python](./python/873-length-of-longest-fibonacci-subsequence.py) |
+| 2025-02-28 | [Shortest Common Supersequence](https://leetcode.com/problems/shortest-common-supersequence/description/) | Hard | [Python](./python/1092-shortest-common-supersequence.py) |
