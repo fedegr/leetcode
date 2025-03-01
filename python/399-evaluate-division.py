@@ -19,10 +19,10 @@ class Solution:
             
             answer = -1.0
             visited = set()
-            stack = deque()
-            stack.append((a, 1.0))
-            while stack:
-                current, value = stack.popleft()
+            queue = deque()
+            queue.append((a, 1.0))
+            while queue:
+                current, value = queue.popleft()
                 if current not in relation[a]:
                     relation[a][current] = value
                 if current in visited:
@@ -32,7 +32,7 @@ class Solution:
                     answer = value
                     break
                 for n, v in relation[current].items():
-                    stack.append((n, value * v))
+                    queue.append((n, value * v))
             results.append(answer)
 
         return results
