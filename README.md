@@ -62,3 +62,4 @@ Solutions for leetcode daily questions
 | 2025-02-27 | [Length of Longest Fibonacci Subsequence](https://leetcode.com/problems/length-of-longest-fibonacci-subsequence/description/) | Medium | [Python](./python/873-length-of-longest-fibonacci-subsequence.py) |
 | 2025-02-28 | [Shortest Common Supersequence](https://leetcode.com/problems/shortest-common-supersequence/description/) | Hard | [Python](./python/1092-shortest-common-supersequence.py) |
 | 2025-03-01 | [Apply Operations to an Array](https://leetcode.com/problems/apply-operations-to-an-array/description/) | Easy | [Python](./python/2460-apply-operations-to-an-array.py) |
+| 2025-03-02 | [Merge Two 2D Arrays by Summing Values](https://leetcode.com/problems/merge-two-2d-arrays-by-summing-values/description/) | Easy | [Python](./python/2570-merge-two-2d-arrays-by-summing-values.py) |
