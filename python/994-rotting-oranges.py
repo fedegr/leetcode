@@ -1,20 +1,9 @@
-from typing import List, Tuple
+from typing import List
 from collections import deque
 
 EMPTY = 0
 FRESH = 1
 ROTTEN = 2
-
-
-def next_positions(matrix: List[List[str]], position: Tuple[int]):
-    width = len(matrix[0])
-    height = len(matrix)
-    x, y = position
-    return tuple(
-        (x+dx, y+dy)
-        for dx, dy in ((1,0), (-1,0), (0,1), (0,-1))
-        if 0 <= x + dx < width and 0 <= y + dy < height
-    )
 
 
 class Solution:
@@ -31,6 +20,9 @@ class Solution:
             for x, orange in enumerate(row)
             if orange == FRESH
         )
+        width = len(grid[0])
+        height = len(grid)
+
 
         i = 0
         while fresh and rotten:
@@ -38,14 +30,18 @@ class Solution:
             rotten = []
 
             while queue:
-                current = queue.popleft()
+                x, y = queue.popleft()
+                fresh_neighbours = tuple(
+                    (x+dx, y+dy)
+                    for dx, dy in ((1,0), (-1,0), (0,1), (0,-1))
+                    if 0 <= x + dx < width and 0 <= y + dy < height and grid[y+dy][x+dx] == FRESH
+                )
 
-                for neighbour in next_positions(grid, current):
+                for neighbour in fresh_neighbours:
                     nx, ny = neighbour
-                    if grid[ny][nx] == FRESH:
-                        rotten.append(neighbour)
-                        fresh.remove(neighbour)
-                        grid[ny][nx] = ROTTEN
+                    rotten.append(neighbour)
+                    fresh.remove(neighbour)
+                    grid[ny][nx] = ROTTEN
             
             i += 1
 
