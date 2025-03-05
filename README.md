@@ -65,3 +65,4 @@ Solutions for leetcode daily questions
 | 2025-03-02 | [Merge Two 2D Arrays by Summing Values](https://leetcode.com/problems/merge-two-2d-arrays-by-summing-values/description/) | Easy | [Python](./python/2570-merge-two-2d-arrays-by-summing-values.py) |
 | 2025-03-03 | [Partition Array According to Given Pivot](https://leetcode.com/problems/partition-array-according-to-given-pivot/description/) | Medium | [Python](./python/2161-partition-array-according-to-given-pivot.py) |
 | 2025-03-04 | [Check if Number is a Sum of Powers of Three](https://leetcode.com/problems/check-if-number-is-a-sum-of-powers-of-three/description/) | Medium | [Python](./python/1780-check-if-number-is-a-sum-of-powers-of-three.py) |
+| 2025-03-05 | [Count Total Number of Colored Cells](https://leetcode.com/problems/count-total-number-of-colored-cells/description/) | Medium | [Python](./python/2579-count-total-number-of-colored-cells.py) |
