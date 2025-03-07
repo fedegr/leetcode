@@ -67,3 +67,4 @@ Solutions for leetcode daily questions
 | 2025-03-04 | [Check if Number is a Sum of Powers of Three](https://leetcode.com/problems/check-if-number-is-a-sum-of-powers-of-three/description/) | Medium | [Python](./python/1780-check-if-number-is-a-sum-of-powers-of-three.py) |
 | 2025-03-05 | [Count Total Number of Colored Cells](https://leetcode.com/problems/count-total-number-of-colored-cells/description/) | Medium | [Python](./python/2579-count-total-number-of-colored-cells.py) |
 | 2025-03-06 | [Find Missing and Repeated Values](https://leetcode.com/problems/find-missing-and-repeated-values/description/) | Easy | [Python](./python/2965-find-missing-and-repeated-values.py) |
+| 2025-03-07 | [Closest Prime Numbers in Range](https://leetcode.com/problems/closest-prime-numbers-in-range/description/) | Medium | [Python](./python/2523-closest-prime-numbers-in-range.py) |
