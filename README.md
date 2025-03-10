@@ -70,3 +70,4 @@ Solutions for leetcode daily questions
 | 2025-03-07 | [Closest Prime Numbers in Range](https://leetcode.com/problems/closest-prime-numbers-in-range/description/) | Medium | [Python](./python/2523-closest-prime-numbers-in-range.py) |
 | 2025-03-08 | [Minimum Recolors to Get K Consecutive Black Blocks](https://leetcode.com/problems/minimum-recolors-to-get-k-consecutive-black-blocks/description/) | Easy | [Python](./python/2379-minimum-recolors-to-get-k-consecutive-black-blocks.py) |
 | 2025-03-09 | [Alternating Groups II](https://leetcode.com/problems/alternating-groups-ii/description/) | Medium | [Python](./python/3208-alternating-groups-ii.py) |
+| 2025-03-10 | [Count of Substrings Containing Every Vowel and K Consonants II](https://leetcode.com/problems/count-of-substrings-containing-every-vowel-and-k-consonants-ii/description/) | Medium | [Python](./python/3306-count-of-substrings-containing-every-vowel-and-k-consonants-ii.py) |
