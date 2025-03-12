@@ -72,4 +72,4 @@ Solutions for leetcode daily questions
 | 2025-03-09 | [Alternating Groups II](https://leetcode.com/problems/alternating-groups-ii/description/) | Medium | [Python](./python/3208-alternating-groups-ii.py) |
 | 2025-03-10 | [Count of Substrings Containing Every Vowel and K Consonants II](https://leetcode.com/problems/count-of-substrings-containing-every-vowel-and-k-consonants-ii/description/) | Medium | [Python](./python/3306-count-of-substrings-containing-every-vowel-and-k-consonants-ii.py) |
 | 2025-03-11 | [Number of Substrings Containing All Three Characters](https://leetcode.com/problems/number-of-substrings-containing-all-three-characters/description/) | Medium | [Python](./python/1358-number-of-substrings-containing-all-three-characters.py) 
-
+| 2025-03-12 | [Maximum Count of Positive Integer and Negative Integer](https://leetcode.com/problems/maximum-count-of-positive-integer-and-negative-integer/description/) | Easy | [Python](./python/2529-maximum-count-of-positive-integer-and-negative-integer.py)
