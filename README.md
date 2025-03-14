@@ -74,3 +74,4 @@ Solutions for leetcode daily questions
 | 2025-03-11 | [Number of Substrings Containing All Three Characters](https://leetcode.com/problems/number-of-substrings-containing-all-three-characters/description/) | Medium | [Python](./python/1358-number-of-substrings-containing-all-three-characters.py) 
 | 2025-03-12 | [Maximum Count of Positive Integer and Negative Integer](https://leetcode.com/problems/maximum-count-of-positive-integer-and-negative-integer/description/) | Easy | [Python](./python/2529-maximum-count-of-positive-integer-and-negative-integer.py)
 | 2025-03-13 | [Zero Array Transformation II](https://leetcode.com/problems/zero-array-transformation-ii/description/) | Medium | [Python](./python/3356-zero-array-transformation-ii.py) |
+| 2025-03-14 | [Maximum Candies Allocated to K Children](https://leetcode.com/problems/maximum-candies-allocated-to-k-children/description/) | Medium | [Python](./python/2226-maximum-candies-allocated-to-k-children.py) |
