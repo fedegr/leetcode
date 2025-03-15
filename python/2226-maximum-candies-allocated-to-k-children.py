@@ -1,4 +1,4 @@
-from bisect import bisect_left
+from typing import List
 
 def can_split(candies, candies_per_child, children_count):
     if candies_per_child == 0:
