@@ -76,3 +76,4 @@ Solutions for leetcode daily questions
 | 2025-03-13 | [Zero Array Transformation II](https://leetcode.com/problems/zero-array-transformation-ii/description/) | Medium | [Python](./python/3356-zero-array-transformation-ii.py) |
 | 2025-03-14 | [Maximum Candies Allocated to K Children](https://leetcode.com/problems/maximum-candies-allocated-to-k-children/description/) | Medium | [Python](./python/2226-maximum-candies-allocated-to-k-children.py) |
 | 2025-03-15 | [House Robber IV](https://leetcode.com/problems/house-robber-iv/description/) | Medium | [Python](./python/2560-house-robber-iv.py) |
+| 2025-03-16 | [Minimum Time to Repair Cars](https://leetcode.com/problems/minimum-time-to-repair-cars/description/) | Medium | [Python](./python/2594-minimum-time-to-repair-cars.py) |
