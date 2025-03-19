@@ -78,3 +78,4 @@ Solutions for leetcode daily questions
 | 2025-03-15 | [House Robber IV](https://leetcode.com/problems/house-robber-iv/description/) | Medium | [Python](./python/2560-house-robber-iv.py) |
 | 2025-03-16 | [Minimum Time to Repair Cars](https://leetcode.com/problems/minimum-time-to-repair-cars/description/) | Medium | [Python](./python/2594-minimum-time-to-repair-cars.py) |
 | 2025-03-17 | [Divide Array Into Equal Pairs](https://leetcode.com/problems/divide-array-into-equal-pairs/description/) | Easy | [Python](./python/2206-divide-array-into-equal-pairs.py) |
+| 2025-03-18 | [Longest Nice Subarray](https://leetcode.com/problems/longest-nice-subarray/description/) | Medium | [Python](./python/2401-longest-nice-subarray.py) |
