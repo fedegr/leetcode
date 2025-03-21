@@ -80,3 +80,4 @@ Solutions for leetcode daily questions
 | 2025-03-17 | [Divide Array Into Equal Pairs](https://leetcode.com/problems/divide-array-into-equal-pairs/description/) | Easy | [Python](./python/2206-divide-array-into-equal-pairs.py) |
 | 2025-03-18 | [Longest Nice Subarray](https://leetcode.com/problems/longest-nice-subarray/description/) | Medium | [Python](./python/2401-longest-nice-subarray.py) |
 | 2025-03-19 | [Minimum Operations to Make Binary Array Elements Equal to One I](https://leetcode.com/problems/minimum-operations-to-make-binary-array-elements-equal-to-one-i/description/) | Medium | [Python](./python/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i.py) |
+| 2025-03-21 | [Find All Possible Recipes from Given Supplies](https://leetcode.com/problems/find-all-possible-recipes-from-given-supplies/description/) | Medium | [Python](./python/2115-find-all-possible-recipes-from-given-supplies.py) |
