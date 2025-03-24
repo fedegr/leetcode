@@ -1,19 +1,8 @@
+from typing import List
+
+
 class Solution:
     def countDays(self, days: int, meetings: List[List[int]]) -> int:
-        # agenda = [0] * (days + 2)
-        # for s, e in meetings:
-        #     agenda[s] += 1
-        #     agenda[e+1] -= 1
-        
-        # days_without_meetings = 0
-        # meetings_count = 0
-        # for i in range(1, days+1):
-        #     meetings_count += agenda[i]
-        #     if meetings_count == 0:
-        #         days_without_meetings += 1
-
-        # return days_without_meetings
-
         meetings.sort()
         new_meetings = [meetings[0]]
         for i in range(1, len(meetings)):
