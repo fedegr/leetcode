@@ -83,3 +83,4 @@ Solutions for leetcode daily questions
 | 2025-03-21 | [Find All Possible Recipes from Given Supplies](https://leetcode.com/problems/find-all-possible-recipes-from-given-supplies/description/) | Medium | [Python](./python/2115-find-all-possible-recipes-from-given-supplies.py) |
 | 2025-03-22 | [Count the Number of Complete Components](https://leetcode.com/problems/count-the-number-of-complete-components/description/) | Medium | [Python](./python/2685-count-the-number-of-complete-components.py) |
 | 2025-03-23 | [Number of Ways to Arrive at Destination](https://leetcode.com/problems/number-of-ways-to-arrive-at-destination/description/) | Medium | [Python](./python/1976-number-of-ways-to-arrive-at-destination.py) |
+| 2025-03-24 | [Count Days Without Meetings](https://leetcode.com/problems/count-days-without-meetings/description/) | Medium | [Python](./python/3169-count-days-without-meetings.py) |
