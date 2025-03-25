@@ -2,25 +2,6 @@ from typing import List
 
 
 def lines_without_overlap(rectangles: List[List[int]], y: bool=False) -> bool:
-    # component = 1 if y else 0
-    # rectangles.sort(key=lambda x: x[component])
-
-    # cuts = 0
-    # candidates = set(rect[2+component] for rect in rectangles)
-    # candidates.discard(max(candidates))
-
-    # all_cuts = list()
-    # for c in candidates:
-    #     if any(rect[component] < c < rect[2+component] for rect in rectangles):
-    #         continue
-
-    #     all_cuts.append(c)
-    #     cuts += 1
-    #     if cuts == 2:
-    #         return True
-    # return False
-
-
     component = 1 if y else 0
     rectangles.sort(key=lambda x: (x[component], x[component+2]))
 
