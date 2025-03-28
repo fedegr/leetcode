@@ -86,3 +86,4 @@ Solutions for leetcode daily questions
 | 2025-03-24 | [Count Days Without Meetings](https://leetcode.com/problems/count-days-without-meetings/description/) | Medium | [Python](./python/3169-count-days-without-meetings.py) |
 | 2025-03-25 | [Check if Grid can be Cut into Sections](https://leetcode.com/problems/check-if-grid-can-be-cut-into-sections/description/) | Medium | [Python](./python/3394-check-if-grid-can-be-cut-into-sections.py) |
 | 2025-03-26 | [Minimum Operations to Make a Uni-Value Grid](https://leetcode.com/problems/minimum-operations-to-make-a-uni-value-grid/description/) | Medium | [Python](./python/2033-minimum-operations-to-make-a-uni-value-grid.py) |
+| 2025-03-28 | [Maximum Number of Points From Grid Queries](https://leetcode.com/problems/maximum-number-of-points-from-grid-queries/description/) | Hard | [Python](./python/2503-maximum-number-of-points-from-grid-queries.py) |
