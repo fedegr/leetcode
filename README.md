@@ -89,3 +89,4 @@ Solutions for leetcode daily questions
 | 2025-03-27 | [Minimum Index of a Valid Split](https://leetcode.com/problems/minimum-index-of-a-valid-split/description/) | Medium | [Python](./python/2780-minimum-index-of-a-valid-split.py) |
 | 2025-03-28 | [Maximum Number of Points From Grid Queries](https://leetcode.com/problems/maximum-number-of-points-from-grid-queries/description/) | Hard | [Python](./python/2503-maximum-number-of-points-from-grid-queries.py) |
 | 2025-03-30 | [Partition Labels](https://leetcode.com/problems/partition-labels/description/) | Medium | [Python](./python/763-partition-labels.py) |
+| 2025-11-16 | [Number of Substrings With Only 1s](https://leetcode.com/problems/number-of-substrings-with-only-1s/description/) | Medium | [Python](./python/1513-number-of-substrings-with-only-1s.py) |
