@@ -2,10 +2,10 @@
 
 class Solution:
     def kLengthApart(self, nums: List[int], k: int) -> bool:
-        last_one = None
+        last_one = - k - 1
         for i, v in enumerate(nums):
             if v == 1:
-                if last_one is not None and i - last_one - 1 < k:
+                if i - last_one - 1 < k:
                     return False
                 last_one = i
         return True
