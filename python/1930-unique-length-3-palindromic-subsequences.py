@@ -5,10 +5,8 @@ class Solution:
         for i, c in enumerate(s):
             pos.setdefault(c, [i, i])[1] = i
         
-        palindromes = set()
-        for i, c in enumerate(s[1:-1], 1):
-            for l, r in pos.values():
-                if l < i < r:
-                    palindromes.add(s[l]+c+s[r])
+        count = 0
+        for l, r in pos.values():
+            count += len(set(s[l+1:r]))
         
-        return len(palindromes)
+        return count

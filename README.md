@@ -94,3 +94,4 @@ Solutions for leetcode daily questions
 | 2025-11-18 | [1-bit and 2-bit Characters](https://leetcode.com/problems/1-bit-and-2-bit-characters/description/) | Easy | [Python](./python/717-1-bit-and-2-bit-characters.py) |
 | 2025-11-19 | [Keep Multiplying Found Values by Two](https://leetcode.com/problems/keep-multiplying-found-values-by-two/description/) | Easy | [Python](./python/2154-keep-multiplying-found-values-by-two.py) |
 | 2025-11-20 | [Set Intersection Size At Least Two](https://leetcode.com/problems/set-intersection-size-at-least-two/description/) | Hard | [Python](./python/757-set-intersection-size-at-least-two.py) |
+| 2025-11-21 | [Unique Length-3 Palindromic Subsequences](https://leetcode.com/problems/unique-length-3-palindromic-subsequences/description/) | Medium | [Python](./python/1930-unique-length-3-palindromic-subsequences.py) |
