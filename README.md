@@ -96,3 +96,4 @@ Solutions for leetcode daily questions
 | 2025-11-20 | [Set Intersection Size At Least Two](https://leetcode.com/problems/set-intersection-size-at-least-two/description/) | Hard | [Python](./python/757-set-intersection-size-at-least-two.py) |
 | 2025-11-21 | [Unique Length-3 Palindromic Subsequences](https://leetcode.com/problems/unique-length-3-palindromic-subsequences/description/) | Medium | [Python](./python/1930-unique-length-3-palindromic-subsequences.py) |
 | 2025-11-22 | [Find Minimum Operations to Make All Elements Divisible by Three](https://leetcode.com/problems/find-minimum-operations-to-make-all-elements-divisible-by-three/description/) | Easy | [Python](./python/3190-find-minimum-operations-to-make-all-elements-divisible-by-three.py) |
+| 2025-11-23 | [Greatest Sum Divisible by Three](https://leetcode.com/problems/greatest-sum-divisible-by-three/description/) | Medium | [Python](./python/1262-greatest-sum-divisible-by-three.py) |
