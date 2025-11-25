@@ -98,3 +98,4 @@ Solutions for leetcode daily questions
 | 2025-11-22 | [Find Minimum Operations to Make All Elements Divisible by Three](https://leetcode.com/problems/find-minimum-operations-to-make-all-elements-divisible-by-three/description/) | Easy | [Python](./python/3190-find-minimum-operations-to-make-all-elements-divisible-by-three.py) |
 | 2025-11-23 | [Greatest Sum Divisible by Three](https://leetcode.com/problems/greatest-sum-divisible-by-three/description/) | Medium | [Python](./python/1262-greatest-sum-divisible-by-three.py) |
 | 2025-11-24 | [Binary Prefix Divisible By 5](https://leetcode.com/problems/binary-prefix-divisible-by-5/description/) | Easy | [Python](./python/1018-binary-prefix-divisible-by-5.py) |
+| 2025-11-25 | [Smallest Integer Divisible by K](https://leetcode.com/problems/smallest-integer-divisible-by-k/description/) | Medium | [Python](./python/1015-smallest-integer-divisible-by-k.py) |
