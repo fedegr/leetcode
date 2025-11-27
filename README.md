@@ -100,3 +100,4 @@ Solutions for leetcode daily questions
 | 2025-11-24 | [Binary Prefix Divisible By 5](https://leetcode.com/problems/binary-prefix-divisible-by-5/description/) | Easy | [Python](./python/1018-binary-prefix-divisible-by-5.py) |
 | 2025-11-25 | [Smallest Integer Divisible by K](https://leetcode.com/problems/smallest-integer-divisible-by-k/description/) | Medium | [Python](./python/1015-smallest-integer-divisible-by-k.py) |
 | 2025-11-26 | [Paths in Matrix Whose Sum Is Divisible by K](https://leetcode.com/problems/paths-in-matrix-whose-sum-is-divisible-by-k/description/) | Hard | [Python](./python/2435-paths-in-matrix-whose-sum-is-divisible-by-k.py) |
+| 2025-11-27 | [Maximum Subarray Sum With Length Divisible by K](https://leetcode.com/problems/maximum-subarray-sum-with-length-divisible-by-k/description/) | Medium | [Python](./python/3381-maximum-subarray-sum-with-length-divisible-by-k.py) |
