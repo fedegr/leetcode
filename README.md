@@ -104,3 +104,4 @@ Solutions for leetcode daily questions
 | 2025-11-28 | [Maximum Number of K-Divisible Components](https://leetcode.com/problems/maximum-number-of-k-divisible-components/description/) | Hard | [Python](./python/2872-maximum-number-of-k-divisible-components.py) |
 | 2025-11-29 | [Minimum Operations to Make Array Sum Divisible by K](https://leetcode.com/problems/minimum-operations-to-make-array-sum-divisible-by-k/description/) | Easy | [Python](./python/3512-minimum-operations-to-make-array-sum-divisible-by-k.py) |
 | 2025-11-30 | [Make Sum Divisible by P](https://leetcode.com/problems/make-sum-divisible-by-p/description/) | Medium | [Python](./python/1590-make-sum-divisible-by-p.py) |
+| 2025-12-01 | [Maximum Running Time of N Computers](https://leetcode.com/problems/maximum-running-time-of-n-computers/description/) | Hard | [Python](./python/2141-maximum-running-time-of-n-computers.py) |
