@@ -107,3 +107,4 @@ Solutions for leetcode daily questions
 | 2025-12-01 | [Maximum Running Time of N Computers](https://leetcode.com/problems/maximum-running-time-of-n-computers/description/) | Hard | [Python](./python/2141-maximum-running-time-of-n-computers.py) |
 | 2025-12-02 | [Count Number of Trapezoids I](https://leetcode.com/problems/count-number-of-trapezoids-i/description/) | Medium | [Python](./python/3623-count-number-of-trapezoids-i.py) |
 | 2025-12-03 | [Count Number of Trapezoids II](https://leetcode.com/problems/count-number-of-trapezoids-ii/description/) | Hard | [Python](./python/3625-count-number-of-trapezoids-ii.py) |
+| 2025-12-04 | [Count Collisions on a Road](https://leetcode.com/problems/count-collisions-on-a-road/description/) | Medium | [Python](./python/2211-count-collisions-on-a-road.py) |
