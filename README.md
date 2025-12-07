@@ -109,3 +109,4 @@ Solutions for leetcode daily questions
 | 2025-12-03 | [Count Number of Trapezoids II](https://leetcode.com/problems/count-number-of-trapezoids-ii/description/) | Hard | [Python](./python/3625-count-number-of-trapezoids-ii.py) |
 | 2025-12-04 | [Count Collisions on a Road](https://leetcode.com/problems/count-collisions-on-a-road/description/) | Medium | [Python](./python/2211-count-collisions-on-a-road.py) |
 | 2025-12-05 | [Count Partitions with Even Sum Difference](https://leetcode.com/problems/count-partitions-with-even-sum-difference/description/) | Easy | [Python](./python/3432-count-partitions-with-even-sum-difference.py) |
+| 2025-12-07 | [Count Odd Numbers in an Interval Range](https://leetcode.com/problems/count-odd-numbers-in-an-interval-range/description/) | Easy | [Python](./python/1523-count-odd-numbers-in-an-interval-range.py) |
