@@ -112,3 +112,4 @@ Solutions for leetcode daily questions
 | 2025-12-07 | [Count Odd Numbers in an Interval Range](https://leetcode.com/problems/count-odd-numbers-in-an-interval-range/description/) | Easy | [Python](./python/1523-count-odd-numbers-in-an-interval-range.py) |
 | 2025-12-08 | [Count Square Sum Triples](https://leetcode.com/problems/count-square-sum-triples/description/) | Easy | [Python](./python/1925-count-square-sum-triples.py) |
 | 2025-12-09 | [Count Special Triplets](https://leetcode.com/problems/count-special-triplets/description/) | Medium | [Python](./python/3583-count-special-triplets.py) |
+| 2025-12-10 | [Count the Number of Computer Unlocking Permutations](https://leetcode.com/problems/count-the-number-of-computer-unlocking-permutations/description/) | Medium | [Python](./python/3577-count-the-number-of-computer-unlocking-permutations.py) |
