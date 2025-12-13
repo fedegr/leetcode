@@ -1,4 +1,6 @@
 from collections import deque
+from typing import List
+
 
 class Solution:
     def countMentions(self, numberOfUsers: int, events: List[List[str]]) -> List[int]:
