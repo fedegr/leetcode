@@ -115,3 +115,4 @@ Solutions for leetcode daily questions
 | 2025-12-10 | [Count the Number of Computer Unlocking Permutations](https://leetcode.com/problems/count-the-number-of-computer-unlocking-permutations/description/) | Medium | [Python](./python/3577-count-the-number-of-computer-unlocking-permutations.py) |
 | 2025-12-11 | [Count Covered Buildings](https://leetcode.com/problems/count-covered-buildings/description/) | Medium | [Python](./python/3531-count-covered-buildings.py) |
 | 2025-12-12 | [Count Mentions Per User](https://leetcode.com/problems/count-mentions-per-user/description/) | Medium | [Python](./python/3433-count-mentions-per-user.py) |
+| 2025-12-13 | [Coupon Code Validator](https://leetcode.com/problems/coupon-code-validator/description/) | Easy | [Python](./python/3606-coupon-code-validator.py) |
