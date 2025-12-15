@@ -117,3 +117,4 @@ Solutions for leetcode daily questions
 | 2025-12-12 | [Count Mentions Per User](https://leetcode.com/problems/count-mentions-per-user/description/) | Medium | [Python](./python/3433-count-mentions-per-user.py) |
 | 2025-12-13 | [Coupon Code Validator](https://leetcode.com/problems/coupon-code-validator/description/) | Easy | [Python](./python/3606-coupon-code-validator.py) |
 | 2025-12-14 | [Number of Ways to Divide a Long Corridor](https://leetcode.com/problems/number-of-ways-to-divide-a-long-corridor/description/) | Hard | [Python](./python/2147-number-of-ways-to-divide-a-long-corridor.py) |
+| 2025-12-15 | [Number of Smooth Descent Periods of a Stock](https://leetcode.com/problems/number-of-smooth-descent-periods-of-a-stock/description/) | Medium | [Python](./python/2110-number-of-smooth-descent-periods-of-a-stock.py) |
